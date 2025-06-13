@@ -1,9 +1,18 @@
-# ATASAM_DAG
+ATASAM & DAG Internship Notebooks
 
-These Jupyter notebooks contains what I've learned computation-wise during my internship at ATASAM (Atatürk University Astrophysics Research and Application Center) & DAG (Eastern Anatolia Observatory).
+These Jupyter notebooks document my learning journey during my internship at ATASAM (Atatürk University Astrophysics Research and Application Center) and the Eastern Anatolia Observatory (DAG).
+My main focus was to understand essential tools in computational astrophysics, including:
 
-My main motivation was was to learn certain graphs (color-magnitude, color-color) that are often used in astrophysics, model and fit the data, and handle FITS files in order to get a grasp of the basics of computational astrophysics.
+Creating color-magnitude and color-color diagrams
 
-Note: Notebooks contains some gaps and errors due to my limited time at ATASAM. I will try to update the notebooks so that the future interns would have a guide on basics.
+Handling and analyzing FITS files
 
-Note2: I've also studied compact blue stars (AM CVn systems), following the PhD thesis of my advisor, Onur ŞATIR, trying to follow his steps during his research to understand the behavior and the nature of these systems while also learning how to classify the observational data through color selection.
+Modeling and fitting astrophysical data
+
+I also explored compact blue stars (AM CVn systems), guided by the PhD thesis of my advisor, Onur ŞATIR, aiming to grasp their behavior and nature through color selection and classification.
+
+⚠️ Some notebooks may contain gaps or minor errors due to time constraints, but I plan to update them regularly to serve as a guide for future interns.
+
+🔍 Star Classification Framework
+A new notebook demonstrating a Random Forest-based framework for star classification using color indices has been added.
+This framework is in its early stage and will be improved and expanded over time.
